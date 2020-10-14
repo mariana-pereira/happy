@@ -22,7 +22,7 @@ const pages: React.FC = () => {
           <span>Minas Gerais</span>
         </div>
 
-        <Link to="/orphanages" className="enter-app">
+        <Link to="/app" className="enter-app">
           <FiArrowRight size={24} color="rgba(0, 0, 0, 0.6)" />
         </Link>
       </div>
